@@ -1,1 +1,5 @@
-Player.Kick("use the new gui script")
+print("Use New script")
+   game.StarterGui:SetCore("SendNotification", {
+    Title = "FUCK YOU";
+    Text = "Please use the New Da hood gui DM to dle#7777"
+})
